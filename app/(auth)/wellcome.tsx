@@ -45,7 +45,7 @@ export default function Wellcome() {
                 } else {
                     refSwiper.current?.scrollBy(1);
                 }
-            }} className='w-11/12 mt-10 bg-primary-500'></ButtonCustom>
+            }} className='w-10/12 mt-10 bg-primary-500'></ButtonCustom>
         </SafeAreaView>
 
     );
